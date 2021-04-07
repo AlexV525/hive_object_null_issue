@@ -6,4 +6,5 @@ A repro repo for Hive.
 
 1. Run the demo directly.
 2. Uncomment the `field2` field for the `TestObject`.
-3. Stop & Re-run the demo.
+3. Regenerate the type adapter.
+4. Stop & Re-run the demo.
