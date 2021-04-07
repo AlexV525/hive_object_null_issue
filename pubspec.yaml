@@ -1,0 +1,21 @@
+name: test_hive_object
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  hive: ^2.0.2
+  hive_flutter: ^1.0.0
+
+dev_dependencies:
+  hive_generator: ^1.0.1
+  build_runner: ^1.12.2
+
+flutter:
+  uses-material-design: true
